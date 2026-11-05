@@ -1,0 +1,8 @@
+P2 Cell-cycle covariate analysis
+================================
+
+DENV: viral_log R2 = 0.0327  full R2 = 0.2422  cell-cycle incremental R2 = 0.2094 
+ZIKV: viral_log R2 = 0.5053  full R2 = 0.6696  cell-cycle incremental R2 = 0.1643 
+
+DENV high-viral vs rest: raw diff = -0.4331  cell-cycle-adjusted diff = -0.095 
+ZIKV high-viral vs rest: raw diff = -0.9215  cell-cycle-adjusted diff = -0.6478 

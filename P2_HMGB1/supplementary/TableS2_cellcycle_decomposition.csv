@@ -1,0 +1,3 @@
+"Virus","n_infected","n_high_viral","high_viral_cluster","R2_viral_only","R2_full","R2_incremental","beta_viral_full","beta_S_full","beta_G2M_full","raw_diff","adjusted_diff","pct_remaining"
+"DENV",998,238,"3",0.0327,0.2422,0.2094,-0.0056,0.4748,0.9714,-0.4331,-0.095,21.9
+"ZIKV",298,128,"4",0.5053,0.6696,0.1643,-0.0967,0.3957,0.7532,-0.9215,-0.6478,70.3
